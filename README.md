@@ -1,3 +1,3 @@
 # ymbcfeedbackdjango
 
-CHECK ON MASTER BRANCH
+Switch branch master to view the code
